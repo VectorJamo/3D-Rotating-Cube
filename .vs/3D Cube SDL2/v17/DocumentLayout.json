@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nsura\\OneDrive\\Desktop\\Projects\\C Projects\\3D Cube SDL2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80E6F880-C174-4416-B408-B69A9C7546F0}|3D Cube SDL2\\3D Cube SDL2.vcxproj|C:\\Users\\nsura\\OneDrive\\Desktop\\Projects\\C Projects\\3D Cube SDL2\\3D Cube SDL2\\maths\\mat4x4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80E6F880-C174-4416-B408-B69A9C7546F0}|3D Cube SDL2\\3D Cube SDL2.vcxproj|solutionrelative:3D Cube SDL2\\maths\\mat4x4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E6F880-C174-4416-B408-B69A9C7546F0}|3D Cube SDL2\\3D Cube SDL2.vcxproj|C:\\Users\\nsura\\OneDrive\\Desktop\\Projects\\C Projects\\3D Cube SDL2\\3D Cube SDL2\\maths\\mat4x4.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80E6F880-C174-4416-B408-B69A9C7546F0}|3D Cube SDL2\\3D Cube SDL2.vcxproj|solutionrelative:3D Cube SDL2\\maths\\mat4x4.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E6F880-C174-4416-B408-B69A9C7546F0}|3D Cube SDL2\\3D Cube SDL2.vcxproj|C:\\Users\\nsura\\OneDrive\\Desktop\\Projects\\C Projects\\3D Cube SDL2\\3D Cube SDL2\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80E6F880-C174-4416-B408-B69A9C7546F0}|3D Cube SDL2\\3D Cube SDL2.vcxproj|solutionrelative:3D Cube SDL2\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E6F880-C174-4416-B408-B69A9C7546F0}|3D Cube SDL2\\3D Cube SDL2.vcxproj|C:\\Users\\nsura\\OneDrive\\Desktop\\Projects\\C Projects\\3D Cube SDL2\\3D Cube SDL2\\maths\\vec4.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80E6F880-C174-4416-B408-B69A9C7546F0}|3D Cube SDL2\\3D Cube SDL2.vcxproj|solutionrelative:3D Cube SDL2\\maths\\vec4.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\nsura\\OneDrive\\Desktop\\Projects\\C Projects\\3D Cube SDL2\\3D Cube SDL2\\main.c",
+              "RelativeDocumentMoniker": "3D Cube SDL2\\main.c",
+              "ToolTip": "C:\\Users\\nsura\\OneDrive\\Desktop\\Projects\\C Projects\\3D Cube SDL2\\3D Cube SDL2\\main.c",
+              "RelativeToolTip": "3D Cube SDL2\\main.c",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-12T05:10:27.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mat4x4.h",
+              "DocumentMoniker": "C:\\Users\\nsura\\OneDrive\\Desktop\\Projects\\C Projects\\3D Cube SDL2\\3D Cube SDL2\\maths\\mat4x4.h",
+              "RelativeDocumentMoniker": "3D Cube SDL2\\maths\\mat4x4.h",
+              "ToolTip": "C:\\Users\\nsura\\OneDrive\\Desktop\\Projects\\C Projects\\3D Cube SDL2\\3D Cube SDL2\\maths\\mat4x4.h",
+              "RelativeToolTip": "3D Cube SDL2\\maths\\mat4x4.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-12T05:10:14.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mat4x4.c",
+              "DocumentMoniker": "C:\\Users\\nsura\\OneDrive\\Desktop\\Projects\\C Projects\\3D Cube SDL2\\3D Cube SDL2\\maths\\mat4x4.c",
+              "RelativeDocumentMoniker": "3D Cube SDL2\\maths\\mat4x4.c",
+              "ToolTip": "C:\\Users\\nsura\\OneDrive\\Desktop\\Projects\\C Projects\\3D Cube SDL2\\3D Cube SDL2\\maths\\mat4x4.c",
+              "RelativeToolTip": "3D Cube SDL2\\maths\\mat4x4.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-12T05:08:00.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "vec4.h",
+              "DocumentMoniker": "C:\\Users\\nsura\\OneDrive\\Desktop\\Projects\\C Projects\\3D Cube SDL2\\3D Cube SDL2\\maths\\vec4.h",
+              "RelativeDocumentMoniker": "3D Cube SDL2\\maths\\vec4.h",
+              "ToolTip": "C:\\Users\\nsura\\OneDrive\\Desktop\\Projects\\C Projects\\3D Cube SDL2\\3D Cube SDL2\\maths\\vec4.h",
+              "RelativeToolTip": "3D Cube SDL2\\maths\\vec4.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-12T05:03:59.426Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
