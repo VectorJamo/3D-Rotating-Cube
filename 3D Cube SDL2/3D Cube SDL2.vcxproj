@@ -132,6 +132,7 @@
   <ItemGroup>
     <ClCompile Include="main.c" />
     <ClCompile Include="maths\mat4x4.c" />
+    <ClCompile Include="maths\vec4.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="maths\mat4x4.h" />

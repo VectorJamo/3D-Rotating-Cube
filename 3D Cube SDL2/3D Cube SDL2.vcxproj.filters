@@ -21,6 +21,9 @@
     <ClCompile Include="maths\mat4x4.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="maths\vec4.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="maths\vec4.h">

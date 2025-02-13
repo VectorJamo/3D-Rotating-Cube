@@ -1,2 +1,15 @@
-﻿  main.c
+﻿  mat4x4.c
+C:\Users\nsura\OneDrive\Desktop\Projects\C Projects\3D Cube SDL2\3D Cube SDL2\maths\mat4x4.c(42,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nsura\OneDrive\Desktop\Projects\C Projects\3D Cube SDL2\3D Cube SDL2\maths\mat4x4.c(43,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nsura\OneDrive\Desktop\Projects\C Projects\3D Cube SDL2\3D Cube SDL2\maths\mat4x4.c(44,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nsura\OneDrive\Desktop\Projects\C Projects\3D Cube SDL2\3D Cube SDL2\maths\mat4x4.c(45,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nsura\OneDrive\Desktop\Projects\C Projects\3D Cube SDL2\3D Cube SDL2\maths\mat4x4.c(49,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nsura\OneDrive\Desktop\Projects\C Projects\3D Cube SDL2\3D Cube SDL2\maths\mat4x4.c(50,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nsura\OneDrive\Desktop\Projects\C Projects\3D Cube SDL2\3D Cube SDL2\maths\mat4x4.c(51,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nsura\OneDrive\Desktop\Projects\C Projects\3D Cube SDL2\3D Cube SDL2\maths\mat4x4.c(52,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nsura\OneDrive\Desktop\Projects\C Projects\3D Cube SDL2\3D Cube SDL2\maths\mat4x4.c(56,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nsura\OneDrive\Desktop\Projects\C Projects\3D Cube SDL2\3D Cube SDL2\maths\mat4x4.c(57,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nsura\OneDrive\Desktop\Projects\C Projects\3D Cube SDL2\3D Cube SDL2\maths\mat4x4.c(58,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nsura\OneDrive\Desktop\Projects\C Projects\3D Cube SDL2\3D Cube SDL2\maths\mat4x4.c(59,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nsura\OneDrive\Desktop\Projects\C Projects\3D Cube SDL2\3D Cube SDL2\maths\mat4x4.c(161,3): warning C4013: 'printf' undefined; assuming extern returning int
   3D Cube SDL2.vcxproj -> C:\Users\nsura\OneDrive\Desktop\Projects\C Projects\3D Cube SDL2\x64\Debug\3D Cube SDL2.exe
