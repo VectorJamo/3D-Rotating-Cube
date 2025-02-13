@@ -2,6 +2,6 @@
 
 3D Rendering from scratch.
 
-Uses SDL2 to render graphics to the screen. 
-All 3D Maths is handeled by the "API".
+All 3D Maths is handeled by the "API" (transformations in 3D space and projections).
 
+Needed to add z-buffer testing, probably will do in the future.
