@@ -2,7 +2,7 @@
 
 3D Rendering from scratch.
 
-All 3D Maths is handeled by the "API" (transformations in 3D space and projections).
+All 3D Maths is self-implemented (transformations in 3D space and projections).
 
 Need to add z-buffer testing, probably will do in the future.
 
