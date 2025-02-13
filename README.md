@@ -4,6 +4,6 @@
 
 All 3D Maths is handeled by the "API" (transformations in 3D space and projections).
 
-Needed to add z-buffer testing, probably will do in the future.
+Need to add z-buffer testing, probably will do in the future.
 
 SDL2 is used only to get a drawable window and render the final vertices to the screen.
